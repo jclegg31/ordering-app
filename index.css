@@ -17,11 +17,9 @@ body {
 .burgerheader{
     border-top-left-radius: 21px;
     border-top-right-radius: 21px;
-}
-
-.burgerheader{
     position: relative;
 }
+
 
 h1{
     position: absolute;
